@@ -1,0 +1,20 @@
+.noticias{
+    /*background-color:rgb(231, 228, 228); */
+    background: url("https://cdn.discordapp.com/attachments/749492035748233216/784207575083253760/background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.foot{
+    width: 100%;
+    height: 6.2%;
+    color: black;
+    background-color: rgb(207, 201, 201);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    z-index: 1;
+    position: absolute;
+    bottom: -148%;
+
+}

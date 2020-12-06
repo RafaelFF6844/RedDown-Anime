@@ -1,0 +1,31 @@
+.caja{
+    
+    
+}
+
+
+
+/* Css del add.php*/
+
+.addform{
+    margin: 3%;
+    padding: 2%;
+    background-color: white;
+    border-radius: 15px;
+    width: max-content;
+    float: left;
+}
+
+.card-img-top{
+    width: max-content;
+    height: max-content;
+    border-radius: 15px;
+    margin-left: 5%;
+}
+
+.card{
+    margin: 5%;
+    border-radius: 15px;
+    float: left;
+}
+

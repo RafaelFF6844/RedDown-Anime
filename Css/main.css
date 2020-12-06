@@ -1,0 +1,46 @@
+body{
+    background: url("https://cdn.discordapp.com/attachments/749492035748233216/784207575083253760/background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-bar{
+    width: 100%;
+    height: 60px;
+    padding: 1%;
+    background-color: white;
+}
+
+.icon{
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin-left: 1%;
+    
+}
+
+.nav-bar strong{
+    font-family: Atvice;
+    font-size: 25px;
+    color: black;
+    float: left;
+}
+
+.menu-options{
+    float: left;
+    margin-left: 5%;
+    width: max-content;
+}
+
+.menu-options a{
+    font-family: Forum;
+    font-size: 18px;
+    color: black;
+    margin-right: 10px;
+}
+
+.form-inline{
+    float: right;
+}
+
